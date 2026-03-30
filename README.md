@@ -1,4 +1,4 @@
-# Email Classification & Urgency Detection System
+# AI Powered Smart Email Classifier
 ## Complete AI-Powered Email Processing Pipeline
 
 A comprehensive system for automated email classification, urgency detection, and real-time analytics dashboard.
